@@ -51,16 +51,16 @@ Live site URL to portfolio
 
 👤 **Author1**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@Nemwel-Boniface ](https://github.com/Nemwel-Boniface)
+- Twitter: [@nemwel_bonie](https://twitter.com/nemwel_bonie)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/nemwel-nyandoro-aa1b2620b/)
 
 
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](../../issues/).
+Feel free to check the [issues page](https://github.com/Nemwel-Boniface/CR-Hello-Microverse/issues).
 
 ## Show your support
 
